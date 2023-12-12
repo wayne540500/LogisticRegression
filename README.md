@@ -3,6 +3,7 @@
 ![image](https://github.com/wayne540500/LogisticRegression/assets/69573286/1f6f1f8e-8243-4976-9e98-c6b1f976bd7e)
 
 To solve this problem we need the following formula:
+
 ![image](https://github.com/wayne540500/LogisticRegression/assets/69573286/0e866b2f-31b3-4e20-9458-46ed11ec6b42)
 ![image](https://github.com/wayne540500/LogisticRegression/assets/69573286/b086934c-892a-4389-9c60-93c762214a6b)
 ![image](https://github.com/wayne540500/LogisticRegression/assets/69573286/f06e4793-d6e1-4daa-9ebd-e127964c22e5)
